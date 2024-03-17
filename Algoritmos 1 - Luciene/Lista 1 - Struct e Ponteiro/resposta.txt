@@ -1,0 +1,23 @@
+O Arquivo tem 19 numeros
+
+12 eh positivo
+24 eh positivo
+55 eh positivo
+98 eh positivo
+20 eh positivo
+24 eh positivo
+36 eh positivo
+21 eh positivo
+58 eh positivo
+66 eh positivo
+55 eh positivo
+38 eh positivo
+50 eh positivo
+12 eh positivo
+62 eh positivo
+75 eh positivo
+-67 nao eh positivo
+94 eh positivo
+33 eh positivo
+
+Nao tem numeros primos
